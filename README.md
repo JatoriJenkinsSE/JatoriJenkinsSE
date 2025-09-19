@@ -109,10 +109,10 @@ jobs:
 
 ## Usage Instructions (GitHub Integrated)
 
-1. Clone the repo:
+1. Repo:
 
 ```bash
-git clone https://github.com/JatoriJenkinsSE/Rust-Microservices-JatoriJenkinsSE.git
+git repo https://github.com/JatoriJenkinsSE/Rust-Microservices-JatoriJenkinsSE.git
 cd Rust-Microservices-JatoriJenkinsSE
 ```
 
