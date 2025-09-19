@@ -9,7 +9,7 @@
 -->
 # Rust Microservice Architecture
 
-A practical, minimal Rust microservice setup tailored for **JatoriJenkinsSE** GitHub account. This setup can be pushed directly to your GitHub and includes your username in repository naming conventions.
+Rust Microservice Architecture project
 
 It includes:
 
@@ -61,7 +61,6 @@ Repo Layout:
 ## GitHub Personalization
 
 * All files include **JatoriJenkinsSE** as the repository owner.
-* Push to GitHub with:
 
 ```bash
 git init
@@ -140,5 +139,3 @@ git push origin main
 ```
 
 ---
-
-This tailored setup is ready for deployment and fully branded for **JatoriJenkinsSE** on GitHub.
